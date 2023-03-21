@@ -1,14 +1,19 @@
-- 👋 Hi, I’m Anas AbuQuta.
+- 👋 Hi, My name is Abd Alrahman Alzant.
 
-- 👀 I Studied in UCAS.
+- 🍁 I have done a lot of web projects.
 
 - 🌱 Full stack web developer.
 
-- 📫 How to reach me Email: anasabuquta825@gmail.com
+- 📫 How to reach me :https://linktr.ee/abdalzant
 
-- 👨‍💻 I am able to write codes extremely good in various programming languages: HTML, CSS, JavaScript, PHP,
-Bootstrap, Laravel, Woordpress, Vue.js, MySQL.
+- 👨‍💻 My Skills: HTML5, CSS3, JavaScript, Vue.js, PHP, PHPLaravel, Wordprss, MySQL.
 
+
+<h3 align="left">
+    <a href="https://github.com/AnasAbuQuta"><img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&color=09A2F7D2&width=435&lines=Languages+And+Tools%3A"
+            alt="Typing SVG" /></a>
+</h3>
 <p align="left">
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
